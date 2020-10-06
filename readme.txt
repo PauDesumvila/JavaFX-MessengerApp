@@ -1,0 +1,1 @@
+Petita aplicacio que simula una aplicacio de missatgeria amb cifratge simetric, asimetric i firmes digitals.
